@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- metadata about the html document as a whole-->
+  </head>
+  <body>
+  <!-- content of our page will be here!!!-->
+    <img src="URL_TO_IMAGE" alt="Picture of a Dog">
+    <!-- above this an image with an alt description of the image, always try to be inclusive and thoughtful! -->
+    <h1> This is the biggest header setting</h1>
+    <h2> this one is slightly smaller than h1 </h2>
+    <ul> im am u.nordered l.ists
+      <li> I'm bulletted! </li>
+      <li> as am I', youre not special</li>
+    </ul>
+    <ol> im an o.rdered l.ist </o>
+      <li> I'm number 1!!! </li>
+      <li> he was number 1! Im 2nd </li>
+    </ol>
+  </body>
+</html>
